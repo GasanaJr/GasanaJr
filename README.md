@@ -13,8 +13,6 @@
 ## 📊GitHub Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GasanaJr&show_icons=true&locale=en&layout=compact" alt="GasanaJr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GasanaJr&show_icons=true&locale=en" alt="GasanaJr" /></p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GasanaJr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
